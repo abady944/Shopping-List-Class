@@ -29,6 +29,7 @@ void sList::getItem(Ingredient){
 }
 */
 
+/*
 // display the price of all items
 void sList::removeIngredient(Ingredient name){
 
@@ -40,6 +41,7 @@ void sList::removeIngredient(Ingredient name){
     }
 }
 
+*/
 
 // display all items in list
 void sList::display(){
